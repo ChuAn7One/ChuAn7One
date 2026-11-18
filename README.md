@@ -27,9 +27,9 @@ The school offers a Mathematics and Applied Mathematics undergraduate program. I
 
 *RoboMaster arena panorama. From [RoboMaster official event overview](https://www.robomaster.com/live/media).*
 
-### Harbin Engineering University’s 创梦之翼 team
+### Harbin Engineering University, Wings of Dream
 
-I competed with **创梦之翼**, Harbin Engineering University's RoboMaster team. Founded in 2014, the team brings together students from several departments to build and test competition robots. Its mechanical, electronics and control, vision, and hardware groups collaborate on the robots from design through testing. My work focused on perception for the Radar Station and state estimation for Auto Aim. [University team profile](https://qihang.hrbeu.edu.cn/2025/0903/c958a340596/page.htm)
+I competed with **Wings of Dream**, Harbin Engineering University's RoboMaster team. Founded in 2014, the team brings together students from several departments to build and test competition robots. Its mechanical, electronics and control, vision, and hardware groups collaborate on the robots from design through competition. My work focused on perception for the Radar Station. [University team profile](https://qihang.hrbeu.edu.cn/2025/0903/c958a340596/page.htm)
 
 [2022 Eastern Regional team archive](https://news.hrbeu.edu.cn/info/1141/72263.htm)
 
